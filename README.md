@@ -1,4 +1,4 @@
-# CourseFlow Portfolio
+# Checknuaykit
 
 Project owner: **[Janon7300](https://github.com/Janon7300)**
 
