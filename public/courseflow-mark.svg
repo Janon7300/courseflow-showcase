@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">CourseFlow</title>
+  <desc id="desc">Letter C with a check mark</desc>
+  <rect x="7" y="7" width="242" height="242" rx="52" fill="#ffcc42" stroke="#151313" stroke-width="6"/>
+  <path
+    d="M169 77c-18-18-45-26-70-20-34 8-57 37-57 71s23 63 57 71c27 6 55-3 73-23"
+    fill="none"
+    stroke="#151313"
+    stroke-width="25"
+    stroke-linecap="round"
+  />
+  <path
+    d="M145 158l20 20 43-51"
+    fill="none"
+    stroke="#ff5734"
+    stroke-width="19"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
